@@ -2,6 +2,6 @@ package org.pashkou.git;
 
 public class MyApplication {
 	public static void main(String[] args) {
-		System.out.println("main");
+		System.out.println("first commit");
 	}
 }
