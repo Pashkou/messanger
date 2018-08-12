@@ -32,6 +32,8 @@ public class MyApplication {
 		System.out.println("implement new feature 6");
 		
 		System.out.println("implement new feature 7");
+		
+		System.out.println("change on master 8");
 
 		System.out.println("implement new feature 8");
 	}
