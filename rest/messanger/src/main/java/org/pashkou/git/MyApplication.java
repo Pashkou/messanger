@@ -6,6 +6,7 @@ public class MyApplication {
 		System.out.println("implement new feature");
 		System.out.println("change on master");
 		
+		
 		System.out.println("implement new feature 2");
 		System.out.println("change on master 2");
 	}
