@@ -18,10 +18,10 @@ public class MyApplication {
 		
 		System.out.println("change on master 4");
 		
-<<<<<<< HEAD
+
 		System.out.println("implement new feature 5");
-=======
+
 		System.out.println("change on master 5");
->>>>>>> refs/remotes/origin/master
+
 	}
 }
