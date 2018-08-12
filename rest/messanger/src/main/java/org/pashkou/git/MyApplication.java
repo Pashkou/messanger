@@ -17,5 +17,7 @@ public class MyApplication {
 		System.out.println("implement new feature 4");
 		
 		System.out.println("change on master 4");
+		
+		System.out.println("change on master 5");
 	}
 }
