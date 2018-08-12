@@ -26,5 +26,7 @@ public class MyApplication {
 		System.out.println("change on master 6");
 
 		System.out.println("implement new feature 6");
+		
+		System.out.println("change on master 7");
 	}
 }
