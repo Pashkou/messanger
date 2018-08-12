@@ -5,5 +5,7 @@ public class MyApplication {
 		System.out.println("second commit, take first commit");
 		System.out.println("implement new feature");
 		System.out.println("change on master");
+		
+		System.out.println("implement new feature 2");
 	}
 }
